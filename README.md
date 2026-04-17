@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 I'm an aspiring data analyst who is passionate about uncovering healthcare patterns and trends. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
-My focus is to build a solid foundation of quality data via cleaning, create dashboards that are easy to read/navigate, and develope models that promote operational efficiency for the future.
+My focus is to build a solid foundation of quality data via cleaning, create dashboards that are easy to read/navigate, and develop models that promote operational efficiency for the future.
 
 When I'm not working with data, I enjoy taking my dogs to the park or playing sand volleyball with friends. I love learning new SQL queries and elevating my skills with PowerBi.
 
