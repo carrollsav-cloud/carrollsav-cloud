@@ -24,7 +24,7 @@ When I'm not working with data, I enjoy taking my dogs to the park or playing sa
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Project A:** [Brief, one-line description of a project]  
 - **Project B:** Creating an interactive hospital dashboard in Power BI.
 
 
