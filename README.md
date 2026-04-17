@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm an aspiring data analyst passionate about uncovering healthcare patterns and trends. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm an aspiring data analyst who is passionate about uncovering healthcare patterns and trends. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is building a solid foundation of data via cleaning, creating dashboards that are easy to read/navigate, and developing models that promote operational efficiency for the future.
 
@@ -46,11 +46,3 @@ When I'm not working with data, I enjoy taking my dogs to the park or playing sa
   <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
