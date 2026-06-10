@@ -17,7 +17,7 @@ I'm an aspiring data analyst who is passionate about uncovering healthcare patte
 
 My focus is to build a solid foundation of quality data via cleaning, create dashboards that are easy to read/navigate, and develop models that promote operational efficiency for the future.
 
-When I'm not working with data, I enjoy taking my dogs to the park or playing sand volleyball with friends. I love learning new SQL queries and elevating my skills with PowerBi.
+When I'm not working with data, I enjoy taking my dogs to the park or playing sand volleyball with friends. I love learning new SQL queries and elevating my skills with PowerBi and Excel.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://carrollsav-cloud.github.io/)
@@ -30,8 +30,8 @@ When I'm not working with data, I enjoy taking my dogs to the park or playing sa
 
 ## 🌱 Currently Learning 
 
-- Advanced DAX queries in PowerBI.
-- Advanced SQL queries in MySQL and PostgreSQL.
+- Complex DAX queries in PowerBI
+- Complex SQL queries using Microsft SQL Server.
 
 ## 🛠️ Technical Skillset
 
